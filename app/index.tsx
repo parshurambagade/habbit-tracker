@@ -1,5 +1,5 @@
 import { Text, View } from "react-native";
-
+import {TextInput} from 'react-native-paper';
 export default function Index() {
   return (
     <View
